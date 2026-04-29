@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python monitor.py --new_data new_data.csv)"
+    ]
+  }
+}
